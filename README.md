@@ -1,7 +1,8 @@
 ### <p align="center">👋 Hi, I’m **Airidas Juška**</p>
 
-<p align="center"> <a href="[your-linkedin-URL](https://www.linkedin.com/in/airidas-ju%C5%A1ka-549141235/)">
+<p align="center"> <a href="https://www.linkedin.com/in/airidas-ju%C5%A1ka-549141235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   </a></p>
 
 👀 I’m interested in programming. Front-end development.\
