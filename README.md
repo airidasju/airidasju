@@ -6,7 +6,7 @@
   </a></p>
 
 👀 I’m interested in programming. Front-end development.\
-🌱 I’m currently studying front-end development at **Baltic Institute of Technology**\
+🌱 I’m currently studying front-end development.\
 💞️ I’m looking to collaborate on interesting projects that would help me learn more about web development.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=airidasju&theme=dark&background=000000)](https://git.io/streak-stats)
